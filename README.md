@@ -7,8 +7,7 @@ Study project from Rocketseat
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-installed libs
-
+yarn create react-app letmeask --template typescript
 yarn add react-router-dom
 yarn add @types/react-router-dom -D  (lib/pacote sem typescript, necessário incluir, dependencia de desenvolvimento não necessário em produção)
 
